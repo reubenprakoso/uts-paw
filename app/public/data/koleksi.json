@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Website Portofolio Developer",
+    "kategori": "Website",
+    "teknologi": "React, Next.js",
+    "tahun": 2023,
+    "tautan": "https://github.com/atlamors/portfolio"
+  },
+  {
+    "id": "2",
+    "judul": "Platform Portofolio Modern",
+    "kategori": "Website",
+    "teknologi": "Next.js, TypeScript",
+    "tahun": 2024,
+    "tautan": "https://github.com/osamajavaid/portfolio"
+  },
+  {
+    "id": "3",
+    "judul": "Galeri Karya Digital",
+    "kategori": "Frontend",
+    "teknologi": "React, JavaScript",
+    "tahun": 2025,
+    "tautan": "https://github.com/Tasin5541/portfolio"
+  },
+  {
+    "id": "4",
+    "judul": "Situs Profil Profesional",
+    "kategori": "Website",
+    "teknologi": "React, Chakra UI",
+    "tahun": 2026,
+    "tautan": "https://github.com/rahulkarda/react-portfolio"
+  },
+  {
+    "id": "5",
+    "judul": "Katalog Proyek Kreatif",
+    "kategori": "Frontend",
+    "teknologi": "Next.js, Tailwind CSS",
+    "tahun": 2024,
+    "tautan": "https://github.com/ByteGrad/portfolio-website"
+  },
+  {
+    "id": "6",
+    "judul": "Etalase Karya Programmer",
+    "kategori": "Website",
+    "teknologi": "React, Vite, Tailwind CSS",
+    "tahun": 2026,
+    "tautan": "https://github.com/TheMehediHQ/DevFolio"
+  },
+  {
+    "id": "7",
+    "judul": "Ruang Pamer Desain Tiga Dimensi",
+    "kategori": "Web Interaktif",
+    "teknologi": "Three.js, React, Next.js",
+    "tahun": 2026,
+    "tautan": "https://github.com/topics/nextjs-portfolio"
+  },
+  {
+    "id": "8",
+    "judul": "Halaman Riwayat Pengembang",
+    "kategori": "Website",
+    "teknologi": "React, Next.js, Tailwind CSS",
+    "tahun": 2024,
+    "tautan": "https://github.com/fazaljoyia/Portfolio"
+  },
+  {
+    "id": "9",
+    "judul": "Antarmuka Portofolio Minimalis",
+    "kategori": "Frontend",
+    "teknologi": "Next.js, TypeScript, Sass",
+    "tahun": 2026,
+    "tautan": "https://github.com/nixrajput/portfolio-nextjs"
+  },
+  {
+    "id": "10",
+    "judul": "Portal Profil dan Pengalaman",
+    "kategori": "Website",
+    "teknologi": "Next.js, React, Tailwind CSS",
+    "tahun": 2024,
+    "tautan": "https://github.com/salesp07/salesp07.github.io"
   }
 ]
